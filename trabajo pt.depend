@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1491477975 source:c:\users\ubuntu\desktop\trabajo pt\funcion.c
+	<stdio.h>
+
+1491518474 source:c:\users\ubuntu\desktop\trabajo pt\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"funcion.h"
+
+1491267407 c:\users\ubuntu\desktop\trabajo pt\funcion.h
+
